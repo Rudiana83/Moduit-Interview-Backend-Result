@@ -1,0 +1,130 @@
+{
+	"info": {
+		"_postman_id": "db4a070c-9cdf-4a14-87b4-8aa474d3e2e8",
+		"name": "INTERVIEW-RUDIANA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "MODUIT",
+			"item": [
+				{
+					"name": "Question",
+					"item": [
+						{
+							"name": "One",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:5001/api/question/two",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "5001",
+									"path": [
+										"api",
+										"question",
+										"two"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Two",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": null
+							},
+							"response": []
+						},
+						{
+							"name": "Three",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:5001/api/question/three",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "5001",
+									"path": [
+										"api",
+										"question",
+										"three"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "QuestionOne",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/questionone",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"questionone"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "QuestionTwo",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/questiontwo",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"questiontwo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "QuestionThree",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/questionthree",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"questionthree"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
