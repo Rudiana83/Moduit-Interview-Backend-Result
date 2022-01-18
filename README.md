@@ -3,11 +3,11 @@ Result Interview Backend at Moduit
 
 **Directory**:
 1. Moduit.Interview
-   
-   Contain visual studio project solution of the tests result
-   
-   I'm create four controllers, three controllers according to the question (one controller one method) and one controller (include three method)
+  
+  Containing visual studio project solution of the result of the tests
+
+  I already created four controllers, three controllers following instructions from the question (one controller one method), and an optional solution using one controller     (including three methods)
    
 2. Postman Collection
 
-   Contain postman collection for testing the Web API  
+   Containing postman collection for testing the Web API  
